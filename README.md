@@ -14,5 +14,4 @@ I'm a Frontend Developer, specializing in creating responsive and user-focused w
 
 🔧  IDE's: <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="Visual Studio Code Logo" width="10" height="10"> Virtual Studio Code. 
 
-🖥  Design: <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
-<i class="fab fa-photoshop"></i> Adobe Photoshop <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Adobe Illustrator Logo" width="10" height="10"> Adobe Illustrator <img src="https://upload.wikimedia.org/wikipedia/commons/LOGO-CORELDRAW-GRAPHICS-SUITE.svg" alt="CorelDRAW Logo" width="10" height="10"> Corel draw
+🖥  Design: <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Adobe_Photoshop_CC_icon.png" alt="Adobe Photoshop Icon" width="100" height="100"> Adobe Photoshop <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Adobe Illustrator Logo" width="10" height="10"> Adobe Illustrator <img src="https://upload.wikimedia.org/wikipedia/commons/LOGO-CORELDRAW-GRAPHICS-SUITE.svg" alt="CorelDRAW Logo" width="10" height="10"> Corel draw
