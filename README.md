@@ -2,7 +2,11 @@
 I'm a Frontend Developer, specializing in creating responsive and user-focused websites. 
 
 ## About Me
+✨ Front-end Developer
+✨ Always learning and improving my development practices 
+✨ Passionate about designing simple and effective digital interfaces. 
 
+## 🛠 Tech Stack
 <!--
 **Therealamoah/Therealamoah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
