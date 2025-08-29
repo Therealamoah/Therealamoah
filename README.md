@@ -7,6 +7,8 @@ I'm a Frontend Developer, specializing in creating responsive and user-focused w
 ✨ Passionate about designing simple and effective digital interfaces. 
 
 ## 🛠 Tech Stack
+🌐  Frontend:  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>HTML Tailwindcss
+
 <!--
 **Therealamoah/Therealamoah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
