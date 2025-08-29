@@ -3,7 +3,9 @@ I'm a Frontend Developer, specializing in creating responsive and user-focused w
 
 ## About Me
 ✨ Front-end Developer
+
 ✨ Always learning and improving my development practices 
+
 ✨ Passionate about designing simple and effective digital interfaces. 
 
 ## 🛠 Tech Stack
@@ -14,4 +16,4 @@ I'm a Frontend Developer, specializing in creating responsive and user-focused w
 
 🔧  IDE's: <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="Visual Studio Code Logo" width="10" height="10"> Virtual Studio Code. 
 
-🖥  Design: <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Adobe_Photoshop_CC_icon.png" alt="Adobe Photoshop Icon" width="100" height="100"> Adobe Photoshop <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Adobe Illustrator Logo" width="10" height="10"> Adobe Illustrator <img src="https://upload.wikimedia.org/wikipedia/commons/LOGO-CORELDRAW-GRAPHICS-SUITE.svg" alt="CorelDRAW Logo" width="10" height="10"> Corel draw
+🖥  Design: Adobe Photoshop <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Adobe Illustrator Logo" width="10" height="10"> Adobe Illustrator Corel draw
