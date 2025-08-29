@@ -12,5 +12,6 @@ I'm a Frontend Developer, specializing in creating responsive and user-focused w
 
 • ⚙️ VCS: <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git Logo" width="10" height="10"> GIT <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="10" height="10">
 
-🔧  IDE's: <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="Visual Studio Code Logo" width="10" height="10"> Virtual Studio Code
+🔧  IDE's: <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="Visual Studio Code Logo" width="10" height="10"> Virtual Studio Code. 
 
+🖥  Design: <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Adobe_Photoshop_CC_icon.svg" alt="Photoshop Logo" width="10" height="10"> Adobe Photoshop <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Adobe Illustrator Logo" width="10" height="10"> Adobe Illustrator <img src="https://upload.wikimedia.org/wikipedia/commons/LOGO-CORELDRAW-GRAPHICS-SUITE.svg" alt="CorelDRAW Logo" width="10" height="10"> Corel draw
