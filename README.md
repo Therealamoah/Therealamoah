@@ -11,3 +11,6 @@ I'm a Frontend Developer, specializing in creating responsive and user-focused w
 
 
 • ⚙️ VCS: <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git Logo" width="10" height="10"> GIT <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="10" height="10">
+
+🔧  IDE's: <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="Visual Studio Code Logo" width="10" height="10"> Virtual Studio Code
+
