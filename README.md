@@ -1,6 +1,8 @@
 ## Welcome,👋 I'm Collins Amoah.
 I'm a Frontend Developer, specializing in creating responsive and user-focused websites. 
 
+## About Me
+
 <!--
 **Therealamoah/Therealamoah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
