@@ -23,3 +23,6 @@ I'm a Frontend Developer, specializing in creating responsive and user-focused w
 🖥  Design: Adobe Photoshop <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Adobe Illustrator Logo" width="10" height="10"> Adobe Illustrator Corel draw
 
 
+<p align="left">QUICK STATS ABOUT ME📈</p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Therealamoah&show_icons=true&theme=transparent)
