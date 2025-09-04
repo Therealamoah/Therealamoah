@@ -16,7 +16,9 @@ I'm a Frontend Developer, specializing in creating responsive and user-focused w
 • 🌐  Frontend:  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="10" height="10"/> HTML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="10" height="10" alt="CSS3" /> CSS3 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="10" height="10" alt="JavaScript" /> JavaScript <img src="https://static.cdnlogo.com/logos/t/34/tailwind-css.svg" width="40" height="40" alt="Tailwind CSS" /> TAILWINDCSS 
 
 
-• ⚙️ VCS: <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git Logo" width="10" height="10"> GIT <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="10" height="10">
+- ⚙️ &nbsp;VCS: &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
 
 🔧  IDE's: <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="Visual Studio Code Logo" width="10" height="10"> Virtual Studio Code. 
 
