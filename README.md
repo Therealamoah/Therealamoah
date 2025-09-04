@@ -17,3 +17,5 @@ I'm a Frontend Developer, specializing in creating responsive and user-focused w
 🔧  IDE's: <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="Visual Studio Code Logo" width="10" height="10"> Virtual Studio Code. 
 
 🖥  Design: Adobe Photoshop <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Adobe Illustrator Logo" width="10" height="10"> Adobe Illustrator Corel draw
+
+## Contact Me
