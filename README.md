@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="150"/>
+</div>
+
 ## Welcome,👋 I'm Collins Amoah.
 I'm a Frontend Developer, specializing in creating responsive and user-focused websites. 
 
