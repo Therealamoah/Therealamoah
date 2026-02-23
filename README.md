@@ -17,9 +17,9 @@ I'm a Frontend Developer, specializing in creating responsive and user-focused w
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=klyvincodebase&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=klyvincodebase&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=klyvincodebase&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Therealamoah&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Therealamoah&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Therealamoah&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <h3>Contact Me</h3>
 
