@@ -3,10 +3,10 @@
 </div>
 
 ## Welcome,👋 I'm Collins Amoah.
-I'm a Frontend Developer, specializing in creating responsive and user-focused websites. 
+I’m a Software Engineer passionate about building scalable web apps and exploring new technologies. I love turning ideas into reality and sharing my projects with the community. 🚀<br>
 
 ## About Me
-✨ Front-end Developer
+✨ Software Developer
 
 ✨ Always learning and improving my development practices 
 
@@ -18,10 +18,18 @@ I'm a Frontend Developer, specializing in creating responsive and user-focused w
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Therealamoah&theme=tokyonight&show_icons=true" />
+  
   <img src="https://nirzak-streak-stats.vercel.app/?user=Therealamoah&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Therealamoah&layout=compact&theme=tokyonight" />
 </p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Therealamoah&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Therealamoah&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <h3>Contact Me</h3>
 
