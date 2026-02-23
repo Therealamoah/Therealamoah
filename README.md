@@ -17,9 +17,11 @@ I'm a Frontend Developer, specializing in creating responsive and user-focused w
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Therealamoah&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Therealamoah&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Therealamoah&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Therealamoah&theme=tokyonight&show_icons=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Therealamoah&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Therealamoah&layout=compact&theme=tokyonight" />
+</p>
 
 <h3>Contact Me</h3>
 
